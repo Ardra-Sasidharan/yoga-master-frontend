@@ -91,7 +91,7 @@ const SingleClass = () => {
                     />
                   </div>
                   <h2 className="text-2xl mb-2">
-                    UI/UX Design and Graphics Learning Bootcamp 2022
+                   Yoga Course 2025
                   </h2>
 
                   <div className="author-meta mt-6 sm:flex  lg:space-x-16 sm:space-x-5 space-y-5 sm:space-y-0 items-center">
@@ -243,13 +243,7 @@ const SingleClass = () => {
                             graphic or web designs. Lorem ipsum dolor sit amet,
                             consectetuer adipiscing elit. Donec odio. Quisque
                             volutpat mattis eros.
-                            <br /> <br /> You’ll be exposed to principles and
-                            strategies, but, more importantly, you’ll learn how
-                            actually apply these abstract concepts by coding
-                            three different websites for three very different
-                            the audiences. Lorem ipsum is dummy text used in
-                            laying out print, graphic or web designs Lorem ipsum
-                            blinding shot chinwag knees.
+                            <br /> <br /> Yoga Course offers a structured, comprehensive program designed to guide you through the fundamentals and advanced aspects of yoga. Whether you're looking to improve flexibility, build strength, reduce stress, or develop mindfulness, this course provides all the tools necessary to achieve your personal goals.
                           </p>
                           <div className="bg-[#F8F8F8] dark:bg-indigo-500 space-y-6 p-8 rounded-md my-8">
                             <h4 className=" text-2xl">
