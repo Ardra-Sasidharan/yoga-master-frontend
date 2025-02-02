@@ -129,7 +129,7 @@ const NavBar = () => {
                 <img src="/yoga-logo.png" alt="" className="w-8 h-8" />
               </h1>
               <p className="font-bold text-[13px]  tracking-[8px] text-secondary">
-                Quick Lookup
+                Balance & Thrive
               </p>
             </div>
           </div>
